@@ -1,2 +1,2 @@
 "feed_publisher_name","feed_publisher_url","feed_lang","feed_start_date","feed_end_date","feed_version"
-"熊本バス","http://www.kuma-bus.co.jp/","ja","20241211","20250314","20241211_20241211"
+"熊本バス","http://www.kuma-bus.co.jp/","ja","20241212","20250315","20241212_20241212"
